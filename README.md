@@ -7,4 +7,5 @@ Files:
 
 - analysis_clustering.ipynb does an in-depth analysis on the scraped information
 
-- semanticSearch.py / semanticSearch_eng.py is based on semanticSearch.ipynb, it allows user to search the apps based natural language prompting.
+- semanticSearch.py / semanticSearch_eng.py is based on semanticSearch.ipynb. 
+  Enables users to search the apps via natural language prompting.
